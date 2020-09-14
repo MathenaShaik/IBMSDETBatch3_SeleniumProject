@@ -11,6 +11,11 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+/**
+ * 
+ * @author MATHENASHAIK
+ *
+ */
 public class Activity6 {
 	WebDriver driver;
 	public static final String TAB_DIRECTORY = "//a[@id='menu_directory_viewDirectory']";

@@ -11,6 +11,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 
+/**
+ * 
+ * @author MATHENASHAIK
+ *
+ */
 public class Activity3 {
 	
 	WebDriver driver;
